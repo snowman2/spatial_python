@@ -44,7 +44,7 @@
 
 * [pandas][] - For data handling and munging
 * [numpy][] - For pretty much anything that involves arrays
-* [xarray]
+* [xarray][] - N-D labeled arrays and datasets in Python
 * [ipython][] - For a wondering interactive environment in which to play
 
 ## Other
@@ -86,3 +86,4 @@
 [h5py]: https://github.com/h5py/h5py
 [pyModis]: https://pypi.python.org/pypi/pyModis
 [gazar]: https://github.com/snowman2/gazar
+[xarray]: https://github.com/pydata/xarray
