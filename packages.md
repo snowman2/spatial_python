@@ -18,6 +18,7 @@
 * [h5py][] - Your pythonic gateway to hdf5 files
 * [pyModis][] - Download and preprocess MODIS data
 * [pyspatial](https://github.com/granularag/pyspatial) - projection aware querying of vector/raster data
+* [gazar][] - A collection of functions and wrappers to use with gdal/ogr.
 
 ## Data Analysis
 
@@ -43,6 +44,7 @@
 
 * [pandas][] - For data handling and munging
 * [numpy][] - For pretty much anything that involves arrays
+* [xarray]
 * [ipython][] - For a wondering interactive environment in which to play
 
 ## Other
@@ -83,3 +85,4 @@
 [scikit-learn]: https://github.com/scikit-learn/scikit-learn
 [h5py]: https://github.com/h5py/h5py
 [pyModis]: https://pypi.python.org/pypi/pyModis
+[gazar]: https://github.com/snowman2/gazar
